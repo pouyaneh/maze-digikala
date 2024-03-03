@@ -92,7 +92,6 @@ level1 = [
     "H           H   H   H",
     "HHHHHHHHHHHHHGHHHHHHH",
 ]
-
 level2 = [
     "HHHHHHHHHHHHHHHHHHHHH",
     "H                   H",
